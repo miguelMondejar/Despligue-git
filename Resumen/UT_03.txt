@@ -1,0 +1,1 @@
+Un servidor DNS es un software que se encarga de traducir las direcciones IP a nombres de dominio. Cada dominio debe tener configurados unos servidores DNS.
