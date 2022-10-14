@@ -1,0 +1,1 @@
+La arquitectura de red es el diseño de una red de comunicaciones.
