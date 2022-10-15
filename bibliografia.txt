@@ -1,2 +1,6 @@
 - Servidor de Red e Internet Alvaro Garcia Sanchez
+<<<<<<< HEAD
 - Redes de computadoras, James Kurose, mayo 2017.
+=======
+- Redes de Computadoras, James Kurose
+>>>>>>> bibliografia
